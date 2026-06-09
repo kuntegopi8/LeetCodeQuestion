@@ -15,4 +15,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0584-find-customer-referee](https://github.com/kuntegopi8/LeetCodeQuestion/tree/master/0584-find-customer-referee) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kuntegopi8/LeetCodeQuestion/tree/master/0151-reverse-words-in-a-string) |
+## String
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/kuntegopi8/LeetCodeQuestion/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->
